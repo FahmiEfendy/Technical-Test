@@ -1,0 +1,24 @@
+1. Buah apa saja yang dimiliki Andi? (fruitName)
+
+Apel
+Kurma
+apel
+Manggis
+Jeruk Bali
+KURMA
+Salak
+
+
+2. Andi memisahkan buahnya menjadi beberapa wadah berdasarkan tipe buah (fruitType). Berapa jumlah wadah yang dibutuhkan? Dan ada buah apa saja di masing-masing wadah?
+
+Andi membutuhkan 2 wadah untuk IMPORT dan LOCAL, wadah IMPORT berisi 4 jenis buah dan wadah LOCAL berisi 3 jenis buah.
+
+
+3. Berapa total stock buah yang ada di masing-masing wadah?
+
+- wadah IMPORT  = 10 + 20 + 50 + 20 = 100 buah
+- wadah LOCAL   = 100 + 10 + 150 = 260 buah
+
+
+4. Apakah ada komentar terkait kasus di atas?
+Terdapat 3 jenis buah yang memiliki fruitId yang sama (fruitId: 5), seharusnya isi dari setiap fruitId dibedakan agar dapat dijadikan unique key.
