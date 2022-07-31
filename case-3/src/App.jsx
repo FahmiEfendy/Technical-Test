@@ -66,7 +66,7 @@ function App() {
         scrollToReviewHandler={scrollToReviewHandler}
         scrolltoHome={scrollToHome}
       />
-      <Home />
+      <Home scrollToMenuHandler={scrollToMenuHandler} />
       <Menu refs={menuRef} />
       <Review refs={reviewRef} />
       <Footer />

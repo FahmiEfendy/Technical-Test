@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Box, Typography, Button } from "@mui/material";
 import ayamGeprek from "../img/ayam-geprek.png";
 
-export default function Home() {
+export default function Home({ scrollToMenuHandler }) {
   return (
     <Container
       maxWidth={false}
@@ -37,6 +37,7 @@ export default function Home() {
             </Typography>
             <Box sx={{ marginTop: "3rem" }}>
               <Button
+                onClick={scrollToMenuHandler}
                 variant="contained"
                 sx={{
                   fontSize: "1.5rem",
