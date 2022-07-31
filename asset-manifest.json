@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/Technical-Test/static/js/main.12fb3173.js",
+    "static/media/ayam-geprek.png": "/Technical-Test/static/media/ayam-geprek.d10c9cd54925b07b9777.png",
+    "static/media/profile.png": "/Technical-Test/static/media/profile.4072d3bea502b00b816a.png",
+    "static/media/ayam-geprek-sambal-matah.jpg": "/Technical-Test/static/media/ayam-geprek-sambal-matah.1abf7979c4d30588e74c.jpg",
+    "static/media/ayam-geprek-saus-bbq.jpg": "/Technical-Test/static/media/ayam-geprek-saus-bbq.53317bd1f33163a5c0f3.jpg",
+    "static/media/ayam-geprek-sambal-bawang.jpg": "/Technical-Test/static/media/ayam-geprek-sambal-bawang.b645f079654ad8b2bd29.jpg",
+    "index.html": "/Technical-Test/index.html",
+    "main.12fb3173.js.map": "/Technical-Test/static/js/main.12fb3173.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.12fb3173.js"
+  ]
+}
